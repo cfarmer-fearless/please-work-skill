@@ -8,8 +8,8 @@
             "default": {
               "lambda": {
                 "arn": "arn:aws:lambda:us-east-2:373878623860:function:ask-skill-sample-nodejs-he-default-default-1644849033627",
-                "lastModified": "2022-02-14T14:30:55.004+0000",
-                "revisionId": "54d55729-ee6e-4857-a3cf-a9683c9e3e34"
+                "lastModified": "2022-02-14T14:49:10.000+0000",
+                "revisionId": "125ff280-9573-43b1-bca8-9deaf5d281bc"
               },
               "iamRole": "arn:aws:iam::373878623860:role/ask-lambda-skill-sample-nodejs-hello-world-1644849033243"
             }
