@@ -13,7 +13,7 @@ jobs:
   #         npm run test;
   deploy:
     runs-on: ubuntu-latest
-    needs: test
+    # needs: test
     if: ${{ true }}
     steps:
       - name: Checkout and deploy to dev
