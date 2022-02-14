@@ -32,7 +32,7 @@
         "userConfig": {
           "runtime": "nodejs12.x",
           "handler": "index.handler",
-          "awsRegion": "us-east-1"
+          "awsRegion": "us-east-2"
         },
         "type": "@ask-cli/lambda-deployer"
       }
